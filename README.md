@@ -52,10 +52,12 @@ while True:
 ```
 ## OUPUT - ARP
 Client-ARP:
-  <img width="838" height="102" alt="image" src="https://github.com/user-attachments/assets/bedbc237-c9e1-470d-800d-d8862e4a8be6" />
+
+<img width="838" height="102" alt="image" src="https://github.com/user-attachments/assets/bedbc237-c9e1-470d-800d-d8862e4a8be6" />
 
 Server-ARP:
- <img width="832" height="130" alt="image" src="https://github.com/user-attachments/assets/dd36dda6-6e7b-4207-8498-4d93c36bb014" />
+
+<img width="832" height="130" alt="image" src="https://github.com/user-attachments/assets/dd36dda6-6e7b-4207-8498-4d93c36bb014" />
 
 
 ## PROGRAM - RARP:
@@ -94,10 +96,12 @@ while True:
 ```
 ## OUPUT -RARP:
 Client-RARP:
- <img width="842" height="108" alt="image" src="https://github.com/user-attachments/assets/642a1f52-f3ad-40a9-96fd-c86380f2a6e1" />
+
+<img width="842" height="108" alt="image" src="https://github.com/user-attachments/assets/642a1f52-f3ad-40a9-96fd-c86380f2a6e1" />
 
 Server-RARP:
-  <img width="834" height="129" alt="image" src="https://github.com/user-attachments/assets/1e42a55b-5157-48ac-bc2b-c0af22d8a44d" />
+
+<img width="834" height="129" alt="image" src="https://github.com/user-attachments/assets/1e42a55b-5157-48ac-bc2b-c0af22d8a44d" />
 
 
 ## RESULT
